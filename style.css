@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #344a72;
+    color: #ffffff;
+}
+
+div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#title{
+    margin: 10px auto;
+    max-width: 200px;
+    padding: 
+}
+
+#description{
+    margin: 10px auto;
+    max-width: 400px;
+    padding-top: 5;
+}
+
+#container { 
+    margin: 10px auto;
+    max-width: 500px;
+    padding: 20px;
+}
+
+.form-wrap {
+    background: #322b6a;
+    padding: 15px 25px;
+    color: rgb(241, 240, 243);
+
+}
+
+textarea{
+    width: 200px;
+    border: 1px solid;
+}
+
+#submitbutton{
+    background-color: #344a72;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 25px;
+}
